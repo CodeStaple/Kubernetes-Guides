@@ -1,4 +1,3 @@
-````markdown
 # Nginx TCP Passthrough Guide
 
 This guide explains how to configure Nginx for pure TCP passthrough from ports **80 → 30080** and **443 → 30443** using the `stream` module.
